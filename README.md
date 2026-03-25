@@ -2,7 +2,7 @@
 
 **`Developer in training`**
 
-Estudante de Análise e Desenvolvimento de Sistemas pelo IFPB, em constante aprendizado e explorando o universo da tecnologia. Atualmente desenvolvo minhas habilidades em Java e Python, buscando aprimorar minha lógica, compreender boas práticas e evoluir no desenvolvimento de software. Tenho interesse em aprender novas linguagens e expandir meus conhecimentos na área.
+Estudante de Análise e Desenvolvimento de Sistemas pelo IFPB, em constante aprendizado e explorando o universo da tecnologia. Atualmente desenvolvo minhas habilidades em Java com Spring Boot, buscando aprimorar minha lógica, compreender boas práticas e evoluir no desenvolvimento de software. Tenho interesse em aprender novas linguagens e expandir meus conhecimentos na área.
 
 
 ### Linguagens e Tecnologias
